@@ -52,7 +52,8 @@ Welcome to **ToneSeer**, the all-in-one bass practice companion designed to make
 
 Download and install Android Studio (Narwhal version) from:  
 👉 https://developer.android.com/studio
-Ensure you install the **Android Emulator** during setup.
+You can leave all of the options default through the install process, just
+ensure you install the **Android Emulator** during setup.
 
 ### 2. Create a TV Emulator
 
@@ -69,7 +70,7 @@ Visit the repo:
 I would suggest placing the APK file on your desktop, this will make it much easier to drag and drop it into the emulator when you go to run the app. 
 
 ### 4. Install the App
-**!! IMPORTANT !!** Cold boot the TV emulator to sync the device time wiht your sysyem time. 
-This can be done using the three dots on the device in the Device Manager. 
-Once running, find the download location for the APK and drag-and-drop the APK file into the emulator. 
+**!! IMPORTANT !!** Cold Boot the TV emulator to sync the device time with your system time. 
+This can be done using the three dots on the device in the Device Manager tab on the left of the Editor. 
+Once running, find the download location for the ToneSeer-APK and drag-and-drop the APK file into the emulator. 
 This should install the app on the device. 
